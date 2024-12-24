@@ -2,23 +2,18 @@
 
 2DoList is a simple and intuitive to-do app built with React Native. It helps you organize your tasks effectively with a clean and user-friendly interface.
 
-![Mockup of 2DoList](./assets/mockupTodo.png)
-
-## Features
-- Add tasks to your to-do list.
-- Mark tasks as completed with a single tap.
-- Filter tasks by status (**All**, **In Progress**, **Done**).
+<img src="./assets/mockupTodo.png" alt="Screenshot of 2DoList" width="200" height="400">.
 - Simple and elegant design for better usability.
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/2DoList.git
+   git clone https://github.com/Ayan-Alam25/react-native-todolist.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd 2DoList
+   cd react-native-todolist
    ```
 3. Install dependencies:
    ```bash
